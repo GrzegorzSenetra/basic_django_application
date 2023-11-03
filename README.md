@@ -2,6 +2,8 @@
 
 Python 3.10.12
 
+Postman documentation: https://documenter.getpostman.com/view/7103432/2s9YXe84NU
+
 To run the project on local machine, you need to install the requirements:
 
 ```bash
