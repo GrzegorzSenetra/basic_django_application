@@ -4,6 +4,16 @@ Python 3.10.12
 
 Postman documentation: https://documenter.getpostman.com/view/7103432/2s9YXe84NU
 
+Online project available at: https://d214s21x3.pythonanywhere.com/
+admin panel: https://d214s21x3.pythonanywhere.com/admin
+
+Django admin credentials:
+
+```bash
+username: admin
+password: admin@admin.pl
+```
+
 To run the project on local machine, you need to install the requirements:
 
 ```bash
@@ -22,9 +32,3 @@ Finally, you can run the project:
 python3 manage.py runserver
 ```
 
-Django admin credentials:
-
-```bash
-username: admin
-password: admin@admin.pl
-```
